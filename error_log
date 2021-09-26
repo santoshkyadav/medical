@@ -1,0 +1,21 @@
+[04-Mar-2019 17:12:18 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/japwarec/public_html/app/Http/Controllers/StudioregisterController.php on line 93
+[05-Mar-2019 06:43:03 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\timestamp() in /home/japwarec/public_html/app/Http/Controllers/StudioregisterController.php on line 69
+[12-Mar-2019 07:29:13 UTC] PHP Fatal error:  Class 'App\distributormodel' not found in /home/japwarec/public_html/app/Http/Controllers/AdminController.php on line 70
+[12-Mar-2019 07:35:26 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::tale() in /home/japwarec/public_html/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php on line 327
+[12-Mar-2019 07:39:49 UTC] PHP Fatal error:  Call to undefined method Illuminate\Database\MySqlConnection::tale() in /home/japwarec/public_html/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php on line 327
+[30-Mar-2019 11:41:17 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 122421248 bytes) in /home/japwarec/public_html/storage/framework/views/4c6686cdf53344b7e5d5812f9b2fbe635f7213dc.php on line 301
+[30-Mar-2019 11:47:44 UTC] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/japwarec/public_html/storage/framework/views/4c6686cdf53344b7e5d5812f9b2fbe635f7213dc.php on line 392
+[31-Mar-2019 06:26:37 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/japwarec/public_html/app/Http/Controllers/StudioregisterController.php on line 45
+[01-May-2019 08:46:04 UTC] PHP Fatal error:  Call to a member function get() on integer in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 400
+[01-May-2019 09:19:07 UTC] PHP Parse error:  syntax error, unexpected 'where' (T_STRING) in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 400
+[01-May-2019 09:22:03 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ']' in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 400
+[01-May-2019 10:10:35 UTC] PHP Fatal error:  Call to a member function get() on array in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 401
+[01-May-2019 10:15:36 UTC] PHP Fatal error:  Call to a member function get() on array in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 401
+[01-May-2019 10:22:43 UTC] PHP Fatal error:  Call to a member function where() on array in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 401
+[01-May-2019 10:23:10 UTC] PHP Fatal error:  Call to a member function where() on array in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 401
+[01-May-2019 10:23:52 UTC] PHP Fatal error:  Call to a member function where() on array in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 401
+[01-May-2019 10:46:34 UTC] PHP Fatal error:  Call to a member function get() on array in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 401
+[01-May-2019 11:43:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 400
+[01-May-2019 11:43:11 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 400
+[01-May-2019 12:20:06 UTC] PHP Fatal error:  Call to a member function join() on array in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 450
+[01-May-2019 14:12:04 UTC] PHP Parse error:  syntax error, unexpected 'select' (T_STRING) in /home/japwarec/public_html/app/Http/Controllers/API/admincontroller.php on line 461
